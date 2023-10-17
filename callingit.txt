@@ -4,3 +4,4 @@ print("bye")
 
 Hi Jane, thank you for being so patient.
 Hey Ash, thank you so much for helping me! really appreciate u alot HEHEHHE
+"fk this shit im so done"
